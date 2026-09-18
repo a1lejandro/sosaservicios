@@ -1,0 +1,434 @@
+[
+  {
+    "nombre": "secador p 5en1",
+    "cant": "2",
+    "precio": "$25.500",
+    "ubicacion": "1",
+    "codigo": "SOS-38618",
+    "categoria": "ELECTRODOMESTICOS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "cosina infrarojo",
+    "cant": "1",
+    "precio": "35.500",
+    "ubicacion": "1",
+    "codigo": "SOS-86589",
+    "categoria": "ELECTRODOMESTICOS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "olla a presion",
+    "cant": "1",
+    "precio": "40.500",
+    "ubicacion": "1",
+    "codigo": "SOS-63438",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "olla set x3",
+    "cant": "1",
+    "precio": "38.500",
+    "ubicacion": "1",
+    "codigo": "SOS-38162",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "olla set x2",
+    "cant": "0",
+    "precio": "28.500",
+    "ubicacion": "1",
+    "codigo": "SOS-80670",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "luz de emer. 30w",
+    "cant": "2",
+    "precio": "19.500",
+    "ubicacion": "1",
+    "codigo": "SOS-15481",
+    "categoria": "ELECTRONICA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "champagnera",
+    "cant": "1",
+    "precio": "27.500",
+    "ubicacion": "1",
+    "codigo": "SOS-44441",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "foco bolichero",
+    "cant": "3",
+    "precio": "5.500",
+    "ubicacion": "1",
+    "codigo": "SOS-16399",
+    "categoria": "ELECTRONICA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "patllera raf",
+    "cant": "1",
+    "precio": "12.000",
+    "ubicacion": "1",
+    "codigo": "SOS-59575",
+    "categoria": "ELECTRONICA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "planchita RAF",
+    "cant": "2",
+    "precio": "17.500",
+    "ubicacion": "1",
+    "codigo": "SOS-86218",
+    "categoria": "ELECTRODOMESTICOS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "picador de verdura",
+    "cant": "1",
+    "precio": "10.500",
+    "ubicacion": "1",
+    "codigo": "SOS-49845",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "procesadora RAF",
+    "cant": "1",
+    "precio": "29.500",
+    "ubicacion": "1",
+    "codigo": "SOS-34653",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "copa de vidrio x4",
+    "cant": "1",
+    "precio": "22.500",
+    "ubicacion": "1",
+    "codigo": "SOS-48754",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "dispenser automatico LUO",
+    "cant": "1",
+    "precio": "11.500",
+    "ubicacion": "1",
+    "codigo": "SOS-95921",
+    "categoria": "ELECTRONICA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "set de cosina silicona HENGDA",
+    "cant": "1",
+    "precio": "18.500",
+    "ubicacion": "1",
+    "codigo": "SOS-67893",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "mini licuadora portatil",
+    "cant": "1",
+    "precio": "15.500",
+    "ubicacion": "1",
+    "codigo": "SOS-24979",
+    "categoria": "ELECTRODOMESTICOS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "mixer pastel RAF",
+    "cant": "2",
+    "precio": "20.500",
+    "ubicacion": "1",
+    "codigo": "SOS-78503",
+    "categoria": "ELECTRODOMESTICOS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "batidora manual",
+    "cant": "1",
+    "precio": "19.500",
+    "ubicacion": "1",
+    "codigo": "SOS-99132",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "pica verduras electrico LUO",
+    "cant": "1",
+    "precio": "15.500",
+    "ubicacion": "1",
+    "codigo": "SOS-61642",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "balanza de cosina",
+    "cant": "1",
+    "precio": "10.500",
+    "ubicacion": "1",
+    "codigo": "SOS-49073",
+    "categoria": "ELECTRONICA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "cubiertos dorados",
+    "cant": "1",
+    "precio": "32.500",
+    "ubicacion": "1",
+    "codigo": "SOS-98373",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "set de tupers x7",
+    "cant": "2",
+    "precio": "14.000",
+    "ubicacion": "1",
+    "codigo": "SOS-73895",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "tupers infantil",
+    "cant": "3",
+    "precio": "6.500",
+    "ubicacion": "1",
+    "codigo": "SOS-39975",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "set de vaso vidrio x4",
+    "cant": "1",
+    "precio": "7.000",
+    "ubicacion": "1",
+    "codigo": "SOS-42976",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "platos grandes azul",
+    "cant": "1",
+    "precio": "30.000",
+    "ubicacion": "1",
+    "codigo": "SOS-32294",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "cosina elec. 2 hornllas",
+    "cant": "1",
+    "precio": "32.500",
+    "ubicacion": "1",
+    "codigo": "SOS-92339",
+    "categoria": "ELECTRODOMESTICOS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "cosina elec.  hornllas",
+    "cant": "3",
+    "precio": "19.500",
+    "ubicacion": "1",
+    "codigo": "SOS-88000",
+    "categoria": "ELECTRODOMESTICOS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "plato asado",
+    "cant": "3",
+    "precio": "16.500",
+    "ubicacion": "1",
+    "codigo": "SOS-79097",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "aro de luz LU-260",
+    "cant": "2",
+    "precio": "27.500",
+    "ubicacion": "1",
+    "codigo": "SOS-90594",
+    "categoria": "ELECTRONICA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "balanza persona",
+    "cant": "1",
+    "precio": "19.500",
+    "ubicacion": "1",
+    "codigo": "SOS-10020",
+    "categoria": "ELECTRONICA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "piloto completo",
+    "cant": "2",
+    "precio": "23.500",
+    "ubicacion": "1",
+    "codigo": "SOS-98982",
+    "categoria": "OTROS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "piloto niño",
+    "cant": "1",
+    "precio": "6.500",
+    "ubicacion": "1",
+    "codigo": "SOS-96317",
+    "categoria": "OTROS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "soporte chicosoporte hasta 85 fijo",
+    "cant": "1",
+    "precio": "23.500",
+    "ubicacion": "1",
+    "codigo": "SOS-68132",
+    "categoria": "OTROS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "cubierto x 12",
+    "cant": "3",
+    "precio": "12.000",
+    "ubicacion": "2",
+    "codigo": "SOS-50915",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "kit pastelero",
+    "cant": "1",
+    "precio": "7.500",
+    "ubicacion": "2",
+    "codigo": "SOS-58021",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "kit cuchillox3",
+    "cant": "1",
+    "precio": "11.500",
+    "ubicacion": "2",
+    "codigo": "SOS-80889",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "utensilio TRAMONTINA",
+    "cant": "1",
+    "precio": "13.500",
+    "ubicacion": "2",
+    "codigo": "SOS-54432",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "bolso kitty",
+    "cant": "2",
+    "precio": "24.500",
+    "ubicacion": "2",
+    "codigo": "SOS-46277",
+    "categoria": "REGALERIA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "bolso print",
+    "cant": "1",
+    "precio": "30.500",
+    "ubicacion": "2",
+    "codigo": "SOS-28471",
+    "categoria": "REGALERIA",
+    "stock_min": 3
+  },
+  {
+    "nombre": "botella infantil LUO 4384",
+    "cant": "2",
+    "precio": "15.000",
+    "ubicacion": "2",
+    "codigo": "SOS-35394",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "botella sierbo",
+    "cant": "6",
+    "precio": "16.500",
+    "ubicacion": "2",
+    "codigo": "SOS-71988",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "botella stich",
+    "cant": "1",
+    "precio": "19.500",
+    "ubicacion": "2",
+    "codigo": "SOS-54005",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "botella STANLEY  800ml",
+    "cant": "2",
+    "precio": "18.500",
+    "ubicacion": "2",
+    "codigo": "SOS-17761",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "botella STANLEY  8619 80ml",
+    "cant": "1",
+    "precio": "14.500",
+    "ubicacion": "2",
+    "codigo": "SOS-64888",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "botella STANLEY   1200ml",
+    "cant": "1",
+    "precio": "17.500",
+    "ubicacion": "2",
+    "codigo": "SOS-83394",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "termo media manija",
+    "cant": "2",
+    "precio": "17.500",
+    "ubicacion": "2",
+    "codigo": "SOS-62294",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "prueba 3",
+    "cant": "2",
+    "precio": "16.500",
+    "ubicacion": "2",
+    "codigo": "SOS-71695",
+    "categoria": "OTROS",
+    "stock_min": 3
+  },
+  {
+    "nombre": "prueba 2",
+    "cant": "4",
+    "precio": "16.500",
+    "ubicacion": "",
+    "codigo": "SOS-61101",
+    "categoria": "OTROS",
+    "stock_min": 3
+  }
+]

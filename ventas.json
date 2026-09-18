@@ -1,0 +1,44 @@
+[
+  {
+    "fecha": "13/09/2026 16:29",
+    "cliente": "Mostrador",
+    "producto": "prueba 1",
+    "precio": "17.500"
+  },
+  {
+    "fecha": "13/09/2026 16:29",
+    "cliente": "Mostrador",
+    "producto": "prueba 2",
+    "precio": "17.500"
+  },
+  {
+    "fecha": "13/09/2026 16:53",
+    "cliente": "lazi",
+    "producto": "prueba 2",
+    "precio": "16.500"
+  },
+  {
+    "fecha": "13/09/2026 16:53",
+    "cliente": "lazi",
+    "producto": "prueba 3",
+    "precio": "16.500"
+  },
+  {
+    "fecha": "13/09/2026 16:53",
+    "cliente": "lazi",
+    "producto": "prueba 1",
+    "precio": "17.500"
+  },
+  {
+    "fecha": "13/09/2026 18:30",
+    "cliente": "Mostrador",
+    "producto": "prueba 2",
+    "precio": "16.500"
+  },
+  {
+    "fecha": "13/09/2026 18:30",
+    "cliente": "Mostrador",
+    "producto": "prueba 3",
+    "precio": "16.500"
+  }
+]
