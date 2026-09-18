@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>SOSA SERVICIO</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{font-family:Arial;background:#fdf2f4;margin:0;padding:10px}
+h1{text-align:center}
+.card{background:white;padding:10px;border-radius:8px;box-shadow:0 2px 5px #0002}
+input{padding:8px;margin:3px;border:1px solid #ccc;border-radius:5px}
+.btn{padding:8px 12px;border:none;border-radius:5px;color:white;cursor:pointer}
+.g{background:#28a745}.b{background:#007bff}.r{background:#dc3545}
+table{width:100%;background:white;margin-top:10px;border-collapse:collapse}
+td,th{padding:8px;border-bottom:1px solid #eee}
+</style>
+</head>
+<body>
+<h1>SOSA SERVICIO</h1>
+<div class="card">
+<input id="busc" placeholder="Buscar / Escanear" style="width:95%" oninput="filtrar()">
+<div style="margin-top:8px">
+<input id="prod" placeholder="Producto">
+<input id="cant" placeholder="Cant" type="number" style="width:60px">
+<input id="precio" placeholder="Precio" type="number" style="width:80px">
+<button class="btn g" onclick="addProd()">Agregar</button>
+<button class="btn b" onclick="vender()">VENDER</button>
+</div>
+<div id="carrito" style="margin-top:10px;font-weight:bold">Carrito: Vacio</div>
+</div>
+<table><thead><tr><th>Producto</th><th>Cant</th><th>Precio</th><th></th></tr></thead>
+<tbody id="lista">
+{% for p in stock %}
+<tr data-n="{{p.producto|lower}}"><td>{{p.producto}}</td><td>{{p.cant}}</td><td>${{p.precio}}</td><td><button class="btn g" onclick="alCarrito('{{p.producto}}',{{p.precio}},'{{p.id}}')">+</button></td></tr>
+{% endfor %}
+</tbody></table>
+<script>
+let carrito=[];
+function filtrar(){let t=document.getElementById('busc').value.toLowerCase();document.querySelectorAll('#lista tr').forEach(r=>{r.style.display=r.dataset.n.includes(t)?'':'none'})}
+function alCarrito(pr,prec,id){let e=carrito.find(x=>x.producto==pr);if(e)e.cantidad++;else carrito.push({producto:pr,precio:prec,id:id,cantidad:1});render()}
+function render(){if(!carrito.length){document.getElementById('carrito').innerText='Carrito: Vacio';return}let total=0;let txt='Carrito: ';carrito.forEach(c=>{txt+=c.producto+' x'+c.cantidad+', ';total+=c.precio*c.cantidad});document.getElementById('carrito').innerText=txt+' | TOTAL $'+total}
+function addProd(){let p=document.getElementById('prod').value;let c=document.getElementById('cant').value||0;let pr=document.getElementById('precio').value||0;if(!p)return alert('Producto');fetch('/api/guardar_stock',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify([...{{stock|tojson}}, {producto:p,cant:parseInt(c),precio:parseInt(pr),id:Date.now()}])}).then(()=>location.reload())}
+function vender(){if(!carrito.length)return alert('Vacio');fetch('/api/vender',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:carrito})}).then(r=>r.json()).then(d=>{alert('Venta $'+d.total);location.reload()})}
+</script>
+</body>
+</html>
