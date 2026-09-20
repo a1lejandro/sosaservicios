@@ -458,5 +458,12 @@
     "cant": "1",
     "precio": "30000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000004",
+    "nombre": "mochila janssport",
+    "cant": "1",
+    "precio": "23500",
+    "ubicacion": "isla"
   }
 ]
