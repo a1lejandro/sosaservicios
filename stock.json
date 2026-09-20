@@ -500,5 +500,12 @@
     "cant": "2",
     "precio": "13000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000013",
+    "nombre": "billetera",
+    "cant": "1",
+    "precio": "8500",
+    "ubicacion": "isla"
   }
 ]
