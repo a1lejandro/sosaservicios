@@ -612,5 +612,12 @@
     "cant": "3",
     "precio": "4500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000038",
+    "nombre": "kit escolar",
+    "cant": "2",
+    "precio": "5000",
+    "ubicacion": "panel"
   }
 ]
