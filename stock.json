@@ -542,5 +542,12 @@
     "cant": "2",
     "precio": "12000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000022",
+    "nombre": "tapa de termo pico",
+    "cant": "3",
+    "precio": "3000",
+    "ubicacion": "isla"
   }
 ]
