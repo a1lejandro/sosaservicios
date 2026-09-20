@@ -4,12 +4,12 @@ import json, os
 from datetime import datetime
 
 app = Flask(__name__)
-app.secret_key = "sosa-final-Aa41412789-2026"
+app.secret_key = "sosa-final-123-2026"
 ARCH_PROD = "stock.json"
 ARCH_VENTAS = "ventas.json"
 ARCH_DEUDAS = "deudores.json"
 CLAVE_ADMIN = "Aa41412789"
-ALIAS_COBRO = "sosaservicios.mp"
+ALIAS_COBRO = "sosaservicios."
 NOMBRE_NEGOCIO = "SOSA SERVICIO"
 
 def cargar(ruta):
