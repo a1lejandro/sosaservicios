@@ -509,10 +509,17 @@
     "ubicacion": "isla"
   },
   {
-    "codigo": "000015",
-    "nombre": "carta de loba",
+    "codigo": "000014",
+    "nombre": "accesorio quencher comun",
     "cant": "1",
-    "precio": "6500",
+    "precio": "5000",
+    "ubicacion": "isla"
+  },
+  {
+    "codigo": "000015",
+    "nombre": "porta vaso quencher",
+    "cant": "1",
+    "precio": "12000",
     "ubicacion": "isla"
   }
 ]
