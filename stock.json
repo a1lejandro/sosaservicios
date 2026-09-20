@@ -556,5 +556,12 @@
     "cant": "1",
     "precio": "4000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000024",
+    "nombre": "tapa termo sistem rosa",
+    "cant": "1",
+    "precio": "6000",
+    "ubicacion": "isla"
   }
 ]
