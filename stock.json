@@ -579,17 +579,17 @@
     "ubicacion": "panel"
   },
   {
-    "codigo": "000028",
-    "nombre": "gorra infantil capi/bubu",
-    "cant": "2",
-    "precio": "8500",
+    "codigo": "000027",
+    "nombre": "cartera stich peluche",
+    "cant": "1",
+    "precio": "13000",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000029",
-    "nombre": "piluso infantil stich",
-    "cant": "1",
-    "precio": "8500",
+    "codigo": "000030",
+    "nombre": "kit lonchera infantil",
+    "cant": "2",
+    "precio": "11500",
     "ubicacion": "panel"
   }
 ]
