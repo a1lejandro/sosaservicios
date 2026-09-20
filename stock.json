@@ -633,5 +633,12 @@
     "cant": "2",
     "precio": "10500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000044",
+    "nombre": "kit belleza infantil",
+    "cant": "2",
+    "precio": "6000",
+    "ubicacion": "panel"
   }
 ]
