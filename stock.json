@@ -509,31 +509,24 @@
     "ubicacion": "isla"
   },
   {
-    "codigo": "000014",
-    "nombre": "accesorio quencher comun",
-    "cant": "1",
-    "precio": "5000",
-    "ubicacion": "isla"
-  },
-  {
     "codigo": "000015",
-    "nombre": "porta vaso quencher",
+    "nombre": "carta de loba",
     "cant": "1",
-    "precio": "12000",
+    "precio": "6500",
     "ubicacion": "isla"
   },
   {
-    "codigo": "000016",
-    "nombre": "broche mariposa negra",
+    "codigo": "000017",
+    "nombre": "broche perla",
     "cant": "1",
-    "precio": "3000",
+    "precio": "4500",
     "ubicacion": "isla"
   },
   {
-    "codigo": "000018",
-    "nombre": "broche flor cocot",
+    "codigo": "000019",
+    "nombre": "broche lazo",
     "cant": "1",
-    "precio": "4800",
+    "precio": "4500",
     "ubicacion": "isla"
   }
 ]
