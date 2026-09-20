@@ -306,15 +306,6 @@
     "stock_min": 3
   },
   {
-    "nombre": "kit pastelero",
-    "cant": "0",
-    "precio": "7.500",
-    "ubicacion": "2",
-    "codigo": "SOS-58021",
-    "categoria": "BAZAR",
-    "stock_min": 3
-  },
-  {
     "nombre": "kit cuchillox3",
     "cant": "1",
     "precio": "11.500",
