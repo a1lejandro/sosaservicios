@@ -647,5 +647,12 @@
     "cant": "1",
     "precio": "7500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000046",
+    "nombre": "kit cocinita",
+    "cant": "1",
+    "precio": "6500",
+    "ubicacion": "panel"
   }
 ]
