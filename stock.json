@@ -626,5 +626,12 @@
     "cant": "4",
     "precio": "5500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000040",
+    "nombre": "pelota playa",
+    "cant": "1",
+    "precio": "4500",
+    "ubicacion": "panel"
   }
 ]
