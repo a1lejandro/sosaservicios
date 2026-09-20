@@ -1,6 +1,6 @@
-# SOSA SERVICIO v8.5 FINAL - CLAVE Aa41412789 - LOGIN PROTEGIDO
+# SOSA SERVICIO v8.5 FINAL - CLAVE Aa41412789 - LOGIN PROTEGIDO - CON GUARDADO PERMANENTE EN GITHUB
 from flask import Flask, render_template_string, request, session
-import json, os
+import json, os, base64, requests
 from datetime import datetime
 
 app = Flask(__name__)
@@ -12,16 +12,55 @@ CLAVE_ADMIN = "123"
 ALIAS_COBRO = "sosaservicios."
 NOMBRE_NEGOCIO = "SOSA SERVICIO"
 
+# --- NUEVO: FUNCIONES PARA GUARDAR EN GITHUB PARA SIEMPRE ---
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+GITHUB_REPO = os.environ.get("GITHUB_REPO", "a1lejandro/sosaservicios")
+
+def github_push(ruta, datos):
+    if not GITHUB_TOKEN or not GITHUB_REPO:
+        return
+    try:
+        url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{ruta}"
+        headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
+        # ver si existe para tomar el sha
+        r = requests.get(url, headers=headers, timeout=10)
+        sha = r.json().get("sha") if r.status_code == 200 else None
+        content_b64 = base64.b64encode(json.dumps(datos, ensure_ascii=False, indent=2).encode("utf-8")).decode()
+        data = {"message": f"update {ruta} {datetime.now()}", "content": content_b64}
+        if sha:
+            data["sha"] = sha
+        requests.put(url, headers=headers, json=data, timeout=10)
+    except Exception as e:
+        print(f"Error GitHub push {ruta}: {e}")
+
 def cargar(ruta):
+    # Si no existe local pero si tenemos token, intentar bajarlo de GitHub
+    if (not os.path.exists(ruta) or os.path.getsize(ruta)==0) and GITHUB_TOKEN:
+        try:
+            url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{ruta}"
+            headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
+            r = requests.get(url, headers=headers, timeout=10)
+            if r.status_code == 200:
+                j = r.json()
+                content = base64.b64decode(j["content"]).decode("utf-8")
+                with open(ruta, "w", encoding="utf-8") as f:
+                    f.write(content)
+        except:
+            pass
+
     if not os.path.exists(ruta) or os.path.getsize(ruta)==0: return []
     try:
         with open(ruta, "r", encoding="utf-8") as f:
             data = json.load(f)
             return data if isinstance(data, list) else []
     except: return []
+
 def guardar(ruta, d):
     with open(ruta, "w", encoding="utf-8") as f:
         json.dump(d, f, ensure_ascii=False, indent=2)
+    # Guardado permanente en GitHub
+    github_push(ruta, d)
+
 def get_cant(p):
     try: return int(str(p.get("cant","0")).strip())
     except: return 0
