@@ -40,13 +40,5 @@
     "cliente": "Mostrador",
     "producto": "prueba 3",
     "precio": "16.500"
-  },
-  {
-    "fecha": "20/09/2026 22:19",
-    "cliente": "Mostrador",
-    "producto": "libro pintar bubu",
-    "precio": "7500",
-    "codigo": "000046",
-    "pago": "EFECTIVO"
   }
 ]
