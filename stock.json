@@ -451,5 +451,12 @@
     "cant": "1",
     "precio": "25500",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000003",
+    "nombre": "mochila stich rosa",
+    "cant": "1",
+    "precio": "30000",
+    "ubicacion": "isla"
   }
 ]
