@@ -40,5 +40,13 @@
     "cliente": "Mostrador",
     "producto": "prueba 3",
     "precio": "16.500"
+  },
+  {
+    "fecha": "20/09/2026 20:15",
+    "cliente": "Mostrador",
+    "producto": "secador p 5en1",
+    "precio": "$25.500",
+    "codigo": "SOS-38618",
+    "pago": "EFECTIVO"
   }
 ]
