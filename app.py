@@ -8,7 +8,7 @@ app.secret_key = "sosa-final-123-2026"
 ARCH_PROD = "stock.json"
 ARCH_VENTAS = "ventas.json"
 ARCH_DEUDAS = "deudores.json"
-CLAVE_ADMIN = "Aa41412789"
+CLAVE_ADMIN = "123"
 ALIAS_COBRO = "sosaservicios."
 NOMBRE_NEGOCIO = "SOSA SERVICIO"
 
