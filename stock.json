@@ -467,24 +467,38 @@
     "ubicacion": "isla"
   },
   {
-    "codigo": "000006",
-    "nombre": "vaso vidrio x6",
+    "codigo": "000005",
+    "nombre": "vaso vidrio durax x4",
     "cant": "2",
-    "precio": "8000",
+    "precio": "7000",
     "ubicacion": "isla"
   },
   {
-    "codigo": "000008",
-    "nombre": "billetra hombre hengda",
-    "cant": "1",
-    "precio": "8500",
+    "codigo": "000007",
+    "nombre": "billetra hombre caja",
+    "cant": "2",
+    "precio": "10000",
     "ubicacion": "isla"
   },
   {
-    "codigo": "000011",
-    "nombre": "agenda xiro",
+    "codigo": "000009",
+    "nombre": "billetra dama",
     "cant": "1",
-    "precio": "8000",
+    "precio": "12000",
+    "ubicacion": "isla"
+  },
+  {
+    "codigo": "000010",
+    "nombre": "agenda cuero",
+    "cant": "1",
+    "precio": "10500",
+    "ubicacion": ""
+  },
+  {
+    "codigo": "000012",
+    "nombre": "kiy accesorios quencher",
+    "cant": "2",
+    "precio": "13000",
     "ubicacion": "isla"
   }
 ]
