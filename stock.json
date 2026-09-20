@@ -306,15 +306,6 @@
     "stock_min": 3
   },
   {
-    "nombre": "kit cuchillox3",
-    "cant": "1",
-    "precio": "11.500",
-    "ubicacion": "2",
-    "codigo": "SOS-80889",
-    "categoria": "BAZAR",
-    "stock_min": 3
-  },
-  {
     "nombre": "utensilio TRAMONTINA",
     "cant": "1",
     "precio": "13.500",
