@@ -549,5 +549,12 @@
     "cant": "3",
     "precio": "3000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000023",
+    "nombre": "tapa termo sebador",
+    "cant": "1",
+    "precio": "4000",
+    "ubicacion": "isla"
   }
 ]
