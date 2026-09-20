@@ -521,5 +521,12 @@
     "cant": "1",
     "precio": "12000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000016",
+    "nombre": "broche mariposa negra",
+    "cant": "1",
+    "precio": "3000",
+    "ubicacion": "isla"
   }
 ]
