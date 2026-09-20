@@ -535,5 +535,12 @@
     "cant": "8",
     "precio": "15000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000021",
+    "nombre": "tira led cob strip",
+    "cant": "2",
+    "precio": "12000",
+    "ubicacion": "isla"
   }
 ]
