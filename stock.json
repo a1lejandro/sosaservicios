@@ -579,52 +579,66 @@
     "ubicacion": "panel"
   },
   {
-    "codigo": "000027",
-    "nombre": "cartera stich peluche",
-    "cant": "1",
-    "precio": "13000",
-    "ubicacion": "panel"
-  },
-  {
-    "codigo": "000030",
-    "nombre": "kit lonchera infantil",
+    "codigo": "000028",
+    "nombre": "gorra infantil capi/bubu",
     "cant": "2",
-    "precio": "11500",
+    "precio": "8500",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000032",
-    "nombre": "neceser cat",
+    "codigo": "000029",
+    "nombre": "piluso infantil stich",
     "cant": "1",
     "precio": "8500",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000035",
-    "nombre": "set auto",
+    "codigo": "000031",
+    "nombre": "almohada viaje",
     "cant": "1",
-    "precio": "6500",
+    "precio": "10500",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000037",
-    "nombre": "muñeco avenger",
-    "cant": "3",
+    "codigo": "000033",
+    "nombre": "mochila lego",
+    "cant": "1",
+    "precio": "8500",
+    "ubicacion": "panel"
+  },
+  {
+    "codigo": "000034",
+    "nombre": "bloques legos",
+    "cant": "1",
     "precio": "4500",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000038",
-    "nombre": "kit escolar",
-    "cant": "2",
-    "precio": "5000",
+    "codigo": "000036",
+    "nombre": "borbujero pez grade",
+    "cant": "1",
+    "precio": "10000",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000041",
-    "nombre": "sepillo pelo bubu",
-    "cant": "1",
+    "codigo": "000039",
+    "nombre": "pistola de agua",
+    "cant": "4",
     "precio": "5500",
+    "ubicacion": "panel"
+  },
+  {
+    "codigo": "000040",
+    "nombre": "pelota playa",
+    "cant": "1",
+    "precio": "4500",
+    "ubicacion": "panel"
+  },
+  {
+    "codigo": "000042",
+    "nombre": "virome color x9",
+    "cant": "1",
+    "precio": "7500",
     "ubicacion": "panel"
   }
 ]
