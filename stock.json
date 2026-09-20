@@ -444,5 +444,12 @@
     "cant": "2",
     "precio": "20",
     "ubicacion": "2"
+  },
+  {
+    "codigo": "000002",
+    "nombre": "mochila escolar rosa xs",
+    "cant": "1",
+    "precio": "25500",
+    "ubicacion": "isla"
   }
 ]
