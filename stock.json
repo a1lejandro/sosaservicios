@@ -584,5 +584,12 @@
     "cant": "2",
     "precio": "8500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000029",
+    "nombre": "piluso infantil stich",
+    "cant": "1",
+    "precio": "8500",
+    "ubicacion": "panel"
   }
 ]
