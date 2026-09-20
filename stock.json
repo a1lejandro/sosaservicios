@@ -605,5 +605,12 @@
     "cant": "1",
     "precio": "8500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000034",
+    "nombre": "bloques legos",
+    "cant": "1",
+    "precio": "4500",
+    "ubicacion": "panel"
   }
 ]
