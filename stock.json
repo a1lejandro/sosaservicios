@@ -577,5 +577,12 @@
     "cant": "2",
     "precio": "10500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000027",
+    "nombre": "cartera stich peluche",
+    "cant": "1",
+    "precio": "13000",
+    "ubicacion": "panel"
   }
 ]
