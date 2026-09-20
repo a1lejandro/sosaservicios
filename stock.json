@@ -467,17 +467,17 @@
     "ubicacion": "isla"
   },
   {
-    "codigo": "000005",
-    "nombre": "vaso vidrio durax x4",
+    "codigo": "000006",
+    "nombre": "vaso vidrio x6",
     "cant": "2",
-    "precio": "7000",
+    "precio": "8000",
     "ubicacion": "isla"
   },
   {
-    "codigo": "000007",
-    "nombre": "billetra hombre caja",
-    "cant": "2",
-    "precio": "10000",
+    "codigo": "000008",
+    "nombre": "billetra hombre hengda",
+    "cant": "1",
+    "precio": "8500",
     "ubicacion": "isla"
   }
 ]
