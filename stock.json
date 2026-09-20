@@ -430,5 +430,12 @@
     "codigo": "SOS-61101",
     "categoria": "OTROS",
     "stock_min": 3
+  },
+  {
+    "codigo": "0100",
+    "nombre": "caniche",
+    "cant": "5",
+    "precio": "1234",
+    "ubicacion": "4"
   }
 ]
