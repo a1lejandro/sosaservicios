@@ -56,13 +56,5 @@
     "precio": "7.500",
     "codigo": "SOS-58021",
     "pago": "EFECTIVO"
-  },
-  {
-    "fecha": "20/09/2026 22:24",
-    "cliente": "Mostrador",
-    "producto": "bolso kitty",
-    "precio": "24.500",
-    "codigo": "SOS-46277",
-    "pago": "EFECTIVO"
   }
 ]
