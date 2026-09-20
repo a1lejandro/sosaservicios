@@ -612,5 +612,12 @@
     "cant": "1",
     "precio": "4500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000035",
+    "nombre": "set auto",
+    "cant": "1",
+    "precio": "6500",
+    "ubicacion": "panel"
   }
 ]
