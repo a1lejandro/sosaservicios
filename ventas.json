@@ -40,13 +40,5 @@
     "cliente": "Mostrador",
     "producto": "prueba 3",
     "precio": "16.500"
-  },
-  {
-    "fecha": "20/09/2026 22:23",
-    "cliente": "Mostrador",
-    "producto": "kit belleza infantil",
-    "precio": "6000",
-    "codigo": "000044",
-    "pago": "EFECTIVO"
   }
 ]
