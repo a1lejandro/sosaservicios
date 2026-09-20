@@ -486,5 +486,12 @@
     "cant": "1",
     "precio": "12000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000010",
+    "nombre": "agenda cuero",
+    "cant": "1",
+    "precio": "10500",
+    "ubicacion": ""
   }
 ]
