@@ -437,5 +437,12 @@
     "cant": "5",
     "precio": "1234",
     "ubicacion": "4"
+  },
+  {
+    "codigo": "0101",
+    "nombre": "anteojo solo",
+    "cant": "2",
+    "precio": "20",
+    "ubicacion": "2"
   }
 ]
