@@ -570,5 +570,12 @@
     "cant": "1",
     "precio": "12000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000026",
+    "nombre": "mochila jardinera oso/valerina",
+    "cant": "2",
+    "precio": "10500",
+    "ubicacion": "panel"
   }
 ]
