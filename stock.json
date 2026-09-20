@@ -563,5 +563,12 @@
     "cant": "1",
     "precio": "6000",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000025",
+    "nombre": "bola cristal",
+    "cant": "1",
+    "precio": "12000",
+    "ubicacion": "isla"
   }
 ]
