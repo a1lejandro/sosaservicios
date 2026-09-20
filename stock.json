@@ -579,45 +579,38 @@
     "ubicacion": "panel"
   },
   {
-    "codigo": "000028",
-    "nombre": "gorra infantil capi/bubu",
+    "codigo": "000027",
+    "nombre": "cartera stich peluche",
+    "cant": "1",
+    "precio": "13000",
+    "ubicacion": "panel"
+  },
+  {
+    "codigo": "000030",
+    "nombre": "kit lonchera infantil",
     "cant": "2",
-    "precio": "8500",
+    "precio": "11500",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000029",
-    "nombre": "piluso infantil stich",
+    "codigo": "000032",
+    "nombre": "neceser cat",
     "cant": "1",
     "precio": "8500",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000031",
-    "nombre": "almohada viaje",
+    "codigo": "000035",
+    "nombre": "set auto",
     "cant": "1",
-    "precio": "10500",
+    "precio": "6500",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000033",
-    "nombre": "mochila lego",
-    "cant": "1",
-    "precio": "8500",
-    "ubicacion": "panel"
-  },
-  {
-    "codigo": "000034",
-    "nombre": "bloques legos",
-    "cant": "1",
+    "codigo": "000037",
+    "nombre": "muñeco avenger",
+    "cant": "3",
     "precio": "4500",
-    "ubicacion": "panel"
-  },
-  {
-    "codigo": "000036",
-    "nombre": "borbujero pez grade",
-    "cant": "1",
-    "precio": "10000",
     "ubicacion": "panel"
   }
 ]
