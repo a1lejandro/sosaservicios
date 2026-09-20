@@ -507,5 +507,12 @@
     "cant": "1",
     "precio": "8500",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000014",
+    "nombre": "accesorio quencher comun",
+    "cant": "1",
+    "precio": "5000",
+    "ubicacion": "isla"
   }
 ]
