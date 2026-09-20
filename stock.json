@@ -528,5 +528,12 @@
     "cant": "1",
     "precio": "4500",
     "ubicacion": "isla"
+  },
+  {
+    "codigo": "000020",
+    "nombre": "mascarilla facial",
+    "cant": "8",
+    "precio": "15000",
+    "ubicacion": "isla"
   }
 ]
