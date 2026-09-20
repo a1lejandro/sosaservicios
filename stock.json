@@ -306,8 +306,26 @@
     "stock_min": 3
   },
   {
+    "nombre": "kit cuchillox3",
+    "cant": "1",
+    "precio": "11.500",
+    "ubicacion": "2",
+    "codigo": "SOS-80889",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
+    "nombre": "utensilio TRAMONTINA",
+    "cant": "1",
+    "precio": "13.500",
+    "ubicacion": "2",
+    "codigo": "SOS-54432",
+    "categoria": "BAZAR",
+    "stock_min": 3
+  },
+  {
     "nombre": "bolso kitty",
-    "cant": "2",
+    "cant": "1",
     "precio": "24.500",
     "ubicacion": "2",
     "codigo": "SOS-46277",
@@ -610,7 +628,7 @@
   {
     "codigo": "000044",
     "nombre": "kit belleza infantil",
-    "cant": "2",
+    "cant": "1",
     "precio": "6000",
     "ubicacion": "panel"
   },
