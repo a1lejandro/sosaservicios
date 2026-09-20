@@ -579,24 +579,24 @@
     "ubicacion": "panel"
   },
   {
-    "codigo": "000028",
-    "nombre": "gorra infantil capi/bubu",
+    "codigo": "000027",
+    "nombre": "cartera stich peluche",
+    "cant": "1",
+    "precio": "13000",
+    "ubicacion": "panel"
+  },
+  {
+    "codigo": "000030",
+    "nombre": "kit lonchera infantil",
     "cant": "2",
-    "precio": "8500",
+    "precio": "11500",
     "ubicacion": "panel"
   },
   {
-    "codigo": "000029",
-    "nombre": "piluso infantil stich",
+    "codigo": "000032",
+    "nombre": "neceser cat",
     "cant": "1",
     "precio": "8500",
-    "ubicacion": "panel"
-  },
-  {
-    "codigo": "000031",
-    "nombre": "almohada viaje",
-    "cant": "1",
-    "precio": "10500",
     "ubicacion": "panel"
   }
 ]
