@@ -739,5 +739,12 @@
     "cant": "1",
     "precio": "24500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000063",
+    "nombre": "Parlante jbl",
+    "cant": "2",
+    "precio": "23500",
+    "ubicacion": ""
   }
 ]
