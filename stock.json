@@ -690,5 +690,12 @@
     "cant": "1",
     "precio": "16500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000056",
+    "nombre": "Foco camara",
+    "cant": "2",
+    "precio": "25500",
+    "ubicacion": ""
   }
 ]
