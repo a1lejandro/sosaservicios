@@ -634,5 +634,12 @@
     "cant": "3",
     "precio": "19500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000048",
+    "nombre": "Medidor de glucosa",
+    "cant": "1",
+    "precio": "23000",
+    "ubicacion": ""
   }
 ]
