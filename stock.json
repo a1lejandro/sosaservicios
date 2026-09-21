@@ -732,5 +732,12 @@
     "cant": "1",
     "precio": "22500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000062",
+    "nombre": "Micrófono luo",
+    "cant": "1",
+    "precio": "24500",
+    "ubicacion": ""
   }
 ]
