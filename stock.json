@@ -697,5 +697,12 @@
     "cant": "2",
     "precio": "25500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000057",
+    "nombre": "Wokitokis infantil",
+    "cant": "1",
+    "precio": "35500",
+    "ubicacion": ""
   }
 ]
