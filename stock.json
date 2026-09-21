@@ -655,5 +655,12 @@
     "cant": "1",
     "precio": "12500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000051",
+    "nombre": "Depiladora electrica",
+    "cant": "1",
+    "precio": "18500",
+    "ubicacion": ""
   }
 ]
