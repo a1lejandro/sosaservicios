@@ -627,5 +627,12 @@
     "cant": "1",
     "precio": "6500",
     "ubicacion": "panel"
+  },
+  {
+    "codigo": "000047",
+    "nombre": "Nebulizador",
+    "cant": "3",
+    "precio": "19500",
+    "ubicacion": ""
   }
 ]
