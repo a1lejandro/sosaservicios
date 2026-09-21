@@ -676,5 +676,12 @@
     "cant": "1",
     "precio": "50000",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000054",
+    "nombre": "Camara luo interior",
+    "cant": "1",
+    "precio": "35500",
+    "ubicacion": ""
   }
 ]
