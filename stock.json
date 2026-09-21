@@ -662,5 +662,12 @@
     "cant": "1",
     "precio": "18500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000052",
+    "nombre": "Baby nails",
+    "cant": "1",
+    "precio": "7500",
+    "ubicacion": ""
   }
 ]
