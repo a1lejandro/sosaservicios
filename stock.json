@@ -755,10 +755,17 @@
     "ubicacion": ""
   },
   {
-    "codigo": "000066",
-    "nombre": "Vaso kencher combinado",
+    "codigo": "000065",
+    "nombre": "Vaso kencher raya",
+    "cant": "2",
+    "precio": "18500",
+    "ubicacion": ""
+  },
+  {
+    "codigo": "000068",
+    "nombre": "Bolso print",
     "cant": "1",
-    "precio": "18000",
+    "precio": "30500",
     "ubicacion": ""
   }
 ]
