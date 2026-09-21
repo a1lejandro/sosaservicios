@@ -704,5 +704,12 @@
     "cant": "1",
     "precio": "35500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000058",
+    "nombre": "Anteojos con parlante",
+    "cant": "2",
+    "precio": "16500",
+    "ubicacion": ""
   }
 ]
