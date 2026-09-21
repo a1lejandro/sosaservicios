@@ -648,5 +648,12 @@
     "cant": "2",
     "precio": "17500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000050",
+    "nombre": "Termometro",
+    "cant": "1",
+    "precio": "12500",
+    "ubicacion": ""
   }
 ]
