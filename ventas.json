@@ -40,5 +40,13 @@
     "cliente": "Mostrador",
     "producto": "prueba 3",
     "precio": "16.500"
+  },
+  {
+    "fecha": "21/09/2026 23:15",
+    "cliente": "Mostrador",
+    "producto": "mochila escolar rosa xs",
+    "precio": "25500",
+    "codigo": "000002",
+    "pago": "EFECTIVO"
   }
 ]
