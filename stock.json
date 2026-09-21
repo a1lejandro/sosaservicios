@@ -669,5 +669,12 @@
     "cant": "1",
     "precio": "7500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000053",
+    "nombre": "Camara doble visor luo",
+    "cant": "1",
+    "precio": "50000",
+    "ubicacion": ""
   }
 ]
