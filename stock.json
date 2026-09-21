@@ -683,5 +683,12 @@
     "cant": "1",
     "precio": "35500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000055",
+    "nombre": "Timbre con camara luo",
+    "cant": "1",
+    "precio": "16500",
+    "ubicacion": ""
   }
 ]
