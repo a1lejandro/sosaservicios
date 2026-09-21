@@ -641,5 +641,12 @@
     "cant": "1",
     "precio": "23000",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000049",
+    "nombre": "Oximetro",
+    "cant": "2",
+    "precio": "17500",
+    "ubicacion": ""
   }
 ]
