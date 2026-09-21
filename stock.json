@@ -718,5 +718,12 @@
     "cant": "1",
     "precio": "14500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000060",
+    "nombre": "Camara infantil luo",
+    "cant": "1",
+    "precio": "24500",
+    "ubicacion": ""
   }
 ]
