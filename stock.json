@@ -753,5 +753,12 @@
     "cant": "1",
     "precio": "45000",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000065",
+    "nombre": "Vaso kencher raya",
+    "cant": "2",
+    "precio": "18500",
+    "ubicacion": ""
   }
 ]
