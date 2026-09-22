@@ -907,5 +907,12 @@
     "cant": "2",
     "precio": "10000",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000096",
+    "nombre": "Inflador portátil",
+    "cant": "1",
+    "precio": "22500",
+    "ubicacion": ""
   }
 ]
