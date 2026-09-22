@@ -921,5 +921,12 @@
     "cant": "1",
     "precio": "11500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000099",
+    "nombre": "Ventilador portátil",
+    "cant": "2",
+    "precio": "9500",
+    "ubicacion": ""
   }
 ]
