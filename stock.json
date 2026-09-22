@@ -909,10 +909,17 @@
     "ubicacion": ""
   },
   {
-    "codigo": "000097",
-    "nombre": "Espejo luo con luz",
+    "codigo": "000096",
+    "nombre": "Inflador portátil",
     "cant": "1",
-    "precio": "12000",
+    "precio": "22500",
+    "ubicacion": ""
+  },
+  {
+    "codigo": "000098",
+    "nombre": "Ventilador manual luo",
+    "cant": "1",
+    "precio": "11500",
     "ubicacion": ""
   }
 ]
