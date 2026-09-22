@@ -837,5 +837,12 @@
     "cant": "3",
     "precio": "12500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000083",
+    "nombre": "Botellas flores 500",
+    "cant": "3",
+    "precio": "17500",
+    "ubicacion": ""
   }
 ]
