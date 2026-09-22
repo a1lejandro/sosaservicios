@@ -858,5 +858,12 @@
     "cant": "3",
     "precio": "10500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000087",
+    "nombre": "Vaso shop",
+    "cant": "1",
+    "precio": "15500",
+    "ubicacion": ""
   }
 ]
