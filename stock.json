@@ -830,5 +830,12 @@
     "cant": "1",
     "precio": "28500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000082",
+    "nombre": "Botella Stanley 500",
+    "cant": "3",
+    "precio": "12500",
+    "ubicacion": ""
   }
 ]
