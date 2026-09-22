@@ -872,5 +872,12 @@
     "cant": "1",
     "precio": "16500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000089",
+    "nombre": "Cenicero",
+    "cant": "1",
+    "precio": "11500",
+    "ubicacion": ""
   }
 ]
