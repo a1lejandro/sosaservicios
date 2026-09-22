@@ -851,5 +851,12 @@
     "cant": "1",
     "precio": "14500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000085",
+    "nombre": "Copa Stanley",
+    "cant": "2",
+    "precio": "15500",
+    "ubicacion": ""
   }
 ]
