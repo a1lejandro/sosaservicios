@@ -802,5 +802,12 @@
     "cant": "1",
     "precio": "17000",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000078",
+    "nombre": "Jarra Stanley + mate",
+    "cant": "1",
+    "precio": "27500",
+    "ubicacion": ""
   }
 ]
