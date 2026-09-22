@@ -881,17 +881,17 @@
     "ubicacion": ""
   },
   {
-    "codigo": "000090",
-    "nombre": "Sellador de bolsa portatil",
+    "codigo": "000091",
+    "nombre": "Picana electrica",
     "cant": "1",
-    "precio": "9500",
+    "precio": "10500",
     "ubicacion": ""
   },
   {
-    "codigo": "000092",
-    "nombre": "Aromatizante de auto",
+    "codigo": "000093",
+    "nombre": "Aromatizante de auto elicoptero",
     "cant": "1",
-    "precio": "9500",
+    "precio": "12500",
     "ubicacion": ""
   }
 ]
