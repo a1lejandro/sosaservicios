@@ -755,31 +755,31 @@
     "ubicacion": ""
   },
   {
-    "codigo": "000065",
-    "nombre": "Vaso kencher raya",
-    "cant": "2",
-    "precio": "18500",
+    "codigo": "000066",
+    "nombre": "Vaso kencher combinado",
+    "cant": "1",
+    "precio": "18000",
     "ubicacion": ""
   },
   {
-    "codigo": "000068",
-    "nombre": "Bolso print",
+    "codigo": "000069",
+    "nombre": "Estereo eco power",
     "cant": "1",
-    "precio": "30500",
+    "precio": "35500",
     "ubicacion": ""
   },
   {
-    "codigo": "000070",
-    "nombre": "Estereo xb",
-    "cant": "1",
-    "precio": "32500",
-    "ubicacion": ""
-  },
-  {
-    "codigo": "000072",
-    "nombre": "Pava eléctrica raf",
-    "cant": "1",
+    "codigo": "000071",
+    "nombre": "Pava eléctrica vix",
+    "cant": "3",
     "precio": "23000",
+    "ubicacion": ""
+  },
+  {
+    "codigo": "000074",
+    "nombre": "Pava eléctrica raf vidrio",
+    "cant": "1",
+    "precio": "24000",
     "ubicacion": ""
   }
 ]
