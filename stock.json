@@ -879,5 +879,12 @@
     "cant": "1",
     "precio": "11500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000090",
+    "nombre": "Sellador de bolsa portatil",
+    "cant": "1",
+    "precio": "9500",
+    "ubicacion": ""
   }
 ]
