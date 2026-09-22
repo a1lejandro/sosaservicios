@@ -781,5 +781,12 @@
     "cant": "1",
     "precio": "24000",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000075",
+    "nombre": "Pava eléctrica maxson",
+    "cant": "3",
+    "precio": "15000",
+    "ubicacion": ""
   }
 ]
