@@ -788,5 +788,12 @@
     "cant": "3",
     "precio": "15000",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000076",
+    "nombre": "Kit termo media manija",
+    "cant": "4",
+    "precio": "22500",
+    "ubicacion": ""
   }
 ]
