@@ -900,5 +900,12 @@
     "cant": "1",
     "precio": "11000",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000095",
+    "nombre": "Humificador  lui",
+    "cant": "2",
+    "precio": "10000",
+    "ubicacion": ""
   }
 ]
