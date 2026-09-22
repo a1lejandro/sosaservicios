@@ -865,5 +865,12 @@
     "cant": "1",
     "precio": "15500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000088",
+    "nombre": "Ventilador de mesa con apoya celular",
+    "cant": "1",
+    "precio": "16500",
+    "ubicacion": ""
   }
 ]
