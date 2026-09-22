@@ -795,5 +795,12 @@
     "cant": "4",
     "precio": "22500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000077",
+    "nombre": "Termo stanley media manija",
+    "cant": "1",
+    "precio": "17000",
+    "ubicacion": ""
   }
 ]
