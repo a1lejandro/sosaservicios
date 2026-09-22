@@ -755,17 +755,17 @@
     "ubicacion": ""
   },
   {
-    "codigo": "000065",
-    "nombre": "Vaso kencher raya",
-    "cant": "2",
-    "precio": "18500",
+    "codigo": "000066",
+    "nombre": "Vaso kencher combinado",
+    "cant": "1",
+    "precio": "18000",
     "ubicacion": ""
   },
   {
-    "codigo": "000068",
-    "nombre": "Bolso print",
+    "codigo": "000069",
+    "nombre": "Estereo eco power",
     "cant": "1",
-    "precio": "30500",
+    "precio": "35500",
     "ubicacion": ""
   }
 ]
