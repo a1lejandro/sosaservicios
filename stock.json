@@ -928,5 +928,12 @@
     "cant": "2",
     "precio": "9500",
     "ubicacion": ""
+  },
+  {
+    "codigo": "000100",
+    "nombre": "Cortina de luces",
+    "cant": "2",
+    "precio": "32500",
+    "ubicacion": ""
   }
 ]
